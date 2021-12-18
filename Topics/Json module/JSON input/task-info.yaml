@@ -1,0 +1,16 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import json
+
+
+    # write your code here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9005#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 13 Dec 2021 17:24:38 UTC
+record: -1
